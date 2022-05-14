@@ -58,6 +58,15 @@ local words = {
     'go on your knees peasant',
     'call your exploiter cuz u a psi',
     'ur dad left you',
+    'bro did i ask',
+    'inject skid',
+    'old hag',
+    'go to sleep',
+    'rekt',
+    'its past your bedtime',
+    '12 year old vibes'
+    'go back in the adoption center',
+    'peasent'
 }
  
 local player = game.Players.LocalPlayer
