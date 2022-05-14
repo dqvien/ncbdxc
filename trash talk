@@ -66,7 +66,7 @@ local words = {
     'its past your bedtime',
     '12 year old vibes'
     'go back in the adoption center',
-    'peasent'
+    'peasent',
 }
  
 local player = game.Players.LocalPlayer
