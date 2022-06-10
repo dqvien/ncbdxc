@@ -67,6 +67,10 @@ local words = {
     '12 year old vibes',
     'go back in the adoption center',
     'peasent',
+    'focus sonny',
+    'donneyboy',
+    'baby boy',
+    'ur aim is horid',
 }
  
 local player = game.Players.LocalPlayer
